@@ -12,7 +12,7 @@ This Tableau dashboard provides an interactive overview of sales, profits, and c
 |----------------------------------------|---------------------------------------------------------------|
 | `The_Bike_Haven_Sales_Dashboard.twbx`  | Tableau Packaged Workbook (open in Tableau Public Desktop)    |
 | `The_Bike_Haven_Sales_Dashboard.pdf`   | Static PDF snapshot of the dashboard layout                   |
-| `dashboard_preview.png` *(optional)*   | Visual preview of the dashboard for GitHub display (add later)|
+| `dashboard_preview.png`    | Visual preview of the dashboard for GitHub display |
 
 ---
 
